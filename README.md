@@ -1,2 +1,2 @@
-# Navigation_Menu
-![Navigation](https://user-images.githubusercontent.com/78149480/139919367-ab83a746-4f4e-4e44-ba86-c9230d346346.png)
+# Navigation Menu
+![Navigation](https://user-images.githubusercontent.com/78149480/139920117-2cb13602-28e6-4038-bd21-dfabdf64dc78.png)
